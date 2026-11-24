@@ -25,10 +25,11 @@ I'm a Computer Science Engineering student who enjoys turning ideas into working
 
 ## Skills
 
-<img align="right"
-     width="360"
-     src="assets/kyoto-dusk.gif"
-     alt="Animated Kyoto dusk pixel art"/>
+<table align="right" width="320"><tr><td align="center">
+<img src="assets/kyoto-dusk.gif" width="300" alt="Animated Kyoto dusk pixel art with falling cherry blossoms, a glowing lantern and rippling pond"/>
+</td></tr><tr><td align="center">
+<img src="assets/git-graph.gif" width="300" alt="Animated Git commit graph with feature branches and merges"/>
+</td></tr></table>
 
 **Languages**
 
