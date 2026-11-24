@@ -17,8 +17,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/contribution-fx.svg?theme=fireworks&palette=purple&label=true
-            dist/contribution-fx-dark.svg?theme=fireworks&palette=purple&mode=dark&label=true
+            dist/contribution-fx.svg?theme=fireworks&palette=sunset&label=true
+            dist/contribution-fx-dark.svg?theme=fireworks&palette=sunset&mode=dark&label=true
 
       - name: Publish graph assets
         uses: crazy-max/ghaction-github-pages@v5
