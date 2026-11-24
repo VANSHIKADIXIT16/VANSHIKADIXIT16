@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://linkedin.com/in/vanshikadixit16/"><img src="https://img.shields.io/badge/LinkedIn-FFD6E8?style=flat-square&logo=linkedin&logoColor=6B4F5A"/></a>
-<a href="https://github.com/VANSHIKADIXIT16"><img src="https://img.shields.io/badge/GitHub-AEE2FF?style=flat-square&logo=github&logoColor=6B4F5A"/></a>
+<a href="https://github.com/VANSHIKADIXT16"><img src="https://img.shields.io/badge/GitHub-AEE2FF?style=flat-square&logo=github&logoColor=6B4F5A"/></a>
 
 </div>
 
@@ -24,6 +24,22 @@ I'm a Computer Science Engineering student who enjoys turning ideas into working
 ---
 
 ## Skills
+
+<table align="right" width="320">
+  <tr>
+    <td align="center">
+      <img src="assets/kyoto-dusk.gif" width="300" alt="Animated Kyoto dusk pixel art"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VANSHIKADIXIT16/VANSHIKADIXIT16/output/contribution-fx-dark.svg"/>
+        <img src="https://raw.githubusercontent.com/VANSHIKADIXIT16/VANSHIKADIXIT16/output/contribution-fx.svg" width="300" alt="Animated graph of real GitHub contributions over the last year"/>
+      </picture>
+    </td>
+  </tr>
+</table>
 
 **Languages**
 
@@ -57,6 +73,8 @@ I'm a Computer Science Engineering student who enjoys turning ideas into working
 ![OOP](https://img.shields.io/badge/OOP-FFD6E8?style=flat-square&logoColor=6B4F5A)
 ![DBMS](https://img.shields.io/badge/DBMS-FFB6D1?style=flat-square&logoColor=6B4F5A)
 ![API Integration](https://img.shields.io/badge/API%20Integration-AEE2FF?style=flat-square&logoColor=6B4F5A)
+
+<br clear="right"/>
 
 ---
 
