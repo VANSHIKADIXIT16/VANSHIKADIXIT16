@@ -25,7 +25,10 @@ I'm a Computer Science Engineering student who enjoys turning ideas into working
 
 ## Skills
 
-<img align="right" width="260" src="assets/kyoto-dusk.gif" alt="Animated Kyoto dusk pixel art with falling cherry blossoms, a glowing lantern and rippling pond"/>
+<img align="right"
+     width="280"
+     src="assets/kyoto-dusk.gif"
+     alt="Animated Kyoto dusk pixel art"/>
 
 **Languages**
 
