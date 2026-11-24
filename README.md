@@ -28,7 +28,7 @@ I'm a Computer Science Engineering student who enjoys turning ideas into working
 <table align="right" width="320" cellpadding="0" cellspacing="0" border="0">
   <tr>
     <td align="center">
-      <sub><b>KYOTO · DUSK</b></sub>
+      <sub><b> (=^・ω・^=) </b></sub>
       <br/><br/>
       <img src="assets/kyoto-dusk.gif" width="300" alt="Animated Kyoto dusk pixel art"/>
     </td>
