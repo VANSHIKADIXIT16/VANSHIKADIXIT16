@@ -25,14 +25,21 @@ I'm a Computer Science Engineering student who enjoys turning ideas into working
 
 ## Skills
 
-<table align="right" width="320">
+<table align="right" width="320" cellpadding="0" cellspacing="0" border="0">
   <tr>
     <td align="center">
+      <sub><b>KYOTO · DUSK</b></sub>
+      <br/><br/>
       <img src="assets/kyoto-dusk.gif" width="300" alt="Animated Kyoto dusk pixel art"/>
     </td>
   </tr>
   <tr>
+    <td height="30">&nbsp;</td>
+  </tr>
+  <tr>
     <td align="center">
+      <sub><b>GITHUB CONTRIBUTIONS · LAST YEAR</b></sub>
+      <br/><br/>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VANSHIKADIXIT16/VANSHIKADIXIT16/output/contribution-fx-dark.svg"/>
         <img src="https://raw.githubusercontent.com/VANSHIKADIXIT16/VANSHIKADIXIT16/output/contribution-fx.svg" width="300" alt="Animated graph of real GitHub contributions over the last year"/>
