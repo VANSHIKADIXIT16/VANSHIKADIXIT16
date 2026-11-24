@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://linkedin.com/in/vanshikadixit16/"><img src="https://img.shields.io/badge/LinkedIn-FFD6E8?style=flat-square&logo=linkedin&logoColor=6B4F5A"/></a>
-<a href="https://github.com/VANSHIKADIXT16"><img src="https://img.shields.io/badge/GitHub-AEE2FF?style=flat-square&logo=github&logoColor=6B4F5A"/></a>
+<a href="https://github.com/VANSHIKADIXIT16"><img src="https://img.shields.io/badge/GitHub-AEE2FF?style=flat-square&logo=github&logoColor=6B4F5A"/></a>
 
 </div>
 
